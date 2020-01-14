@@ -13,7 +13,7 @@ public class App {
         animals.add(new Animal("frog", true, true));
         animals.add(new Animal("lapras", false, true));
         
-// coment
+// coment new
 
         System.out.println();
 
