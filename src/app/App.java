@@ -11,6 +11,7 @@ public class App {
         animals.add(new Animal("rabbit", true, false));
         animals.add(new Animal("turtle", false, true));
         animals.add(new Animal("frog", true, true));
+        animals.add(new Animal("lapras", false, true));
         
 
 
